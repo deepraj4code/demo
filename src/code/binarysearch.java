@@ -6,6 +6,8 @@ public class binarysearch {
 		// TODO Auto-generated method stub
 
 		int[] a= {1,4,7,9,10,13,1000,7895}; //assuming the array is sorted
+
+//simplycloning
 		
 		int start = a[0];
 		int end = a[a.length-1];
