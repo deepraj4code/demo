@@ -14,7 +14,7 @@ public class hashsetduplicate {
 		
 		//define a hashset to store the string array
 		//get the output of add which will return boolean of true or false 
-		//false if elements are duplicate
+		//false if elements are duplicate, playing around
 		
 		HashSet<String> s = new HashSet<String>(); //defined a hashset s
 		
